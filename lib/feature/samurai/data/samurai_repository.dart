@@ -1,5 +1,4 @@
 class SamuraiRepository {
-
   void loadSamuraiData() {}
 
   void clameReward() {}
